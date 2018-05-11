@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CubeMap", "CubeMap\CubeMap.vcxproj", "{FABADC5D-1DFF-4B53-9D49-5A3D8B8F26DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3D8E2DA9-0A37-4538-9CEB-11D4410AEB2B}"
+	ProjectSection(SolutionItems) = preProject
+		CubeMap\CubeMap.cpp = CubeMap\CubeMap.cpp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FABADC5D-1DFF-4B53-9D49-5A3D8B8F26DC}.Debug|x64.ActiveCfg = Debug|x64
+		{FABADC5D-1DFF-4B53-9D49-5A3D8B8F26DC}.Debug|x64.Build.0 = Debug|x64
+		{FABADC5D-1DFF-4B53-9D49-5A3D8B8F26DC}.Debug|x86.ActiveCfg = Debug|Win32
+		{FABADC5D-1DFF-4B53-9D49-5A3D8B8F26DC}.Debug|x86.Build.0 = Debug|Win32
+		{FABADC5D-1DFF-4B53-9D49-5A3D8B8F26DC}.Release|x64.ActiveCfg = Release|x64
+		{FABADC5D-1DFF-4B53-9D49-5A3D8B8F26DC}.Release|x64.Build.0 = Release|x64
+		{FABADC5D-1DFF-4B53-9D49-5A3D8B8F26DC}.Release|x86.ActiveCfg = Release|Win32
+		{FABADC5D-1DFF-4B53-9D49-5A3D8B8F26DC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58A87BD6-10A0-4E65-BE47-CBD54619D0B9}
+	EndGlobalSection
+EndGlobal

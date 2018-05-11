@@ -1,0 +1,33 @@
+﻿  CubeMap.cpp
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(98): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(244): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(248): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(252): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(267): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(273): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(276): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(290): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(295): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(298): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(312): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(317): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(320): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(419): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(465): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(467): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(477): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(479): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(494): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(495): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(496): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(499): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(500): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(502): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(528): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(541): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(618): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(687): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(688): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(690): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sponberg lab\source\repos\cubemap\cubemap\cubemap.cpp(692): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CubeMap.vcxproj -> C:\Users\Sponberg Lab\source\repos\CubeMap\Debug\CubeMap.exe
